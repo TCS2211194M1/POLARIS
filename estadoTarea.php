@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Estado de Tareas</title>
-    <link rel="stylesheet" href="css/p.css"> <!-- Enlaza tu archivo CSS aquí -->
+    <link rel="stylesheet" href="css/stylesEstado.css"> <!-- Enlaza tu archivo CSS aquí -->
 </head>
 <body>
     <div class="form-container">

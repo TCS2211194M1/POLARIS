@@ -6,7 +6,7 @@
     <title>Polaris - Gestión de Proyectos</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/6.5.8/swiper-bundle.min.css">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link rel="stylesheet" href="css/e.css"> <!-- Enlace a tu nuevo archivo CSS -->
+    <link rel="stylesheet" href="css/styleIndex.css"> <!-- Enlace a tu nuevo archivo CSS -->
 </head>
 <body>
 <header class="header">
